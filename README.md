@@ -1,2 +1,0 @@
-# NawrasAlzayer
-DevPsu GitHub Project
